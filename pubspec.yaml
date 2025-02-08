@@ -1,0 +1,33 @@
+name: qiuqiao
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  curved_navigation_bar: ^1.0.6
+  firebase_core: ^3.10.1
+  cloud_firestore: ^5.6.2
+  audioplayers: ^6.1.1
+  flutter_animate: ^4.5.2
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets\IMG_0209.png
+    - assets\tn2.jpg
+    - assets\tn3.jpg
+    - assets\tn4.jpg
+    - assets\audio\shake-popcorn-bag2.mp3
+    - assets\audio\pop.mp3  

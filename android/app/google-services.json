@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654615274079",
+    "project_id": "qiuqiao-abacf",
+    "storage_bucket": "qiuqiao-abacf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654615274079:android:9463e74f923419acf1b1ea",
+        "android_client_info": {
+          "package_name": "com.example.qiuqiao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS0bN1YV74t2oiq8abE6EXlnguXcszpLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
